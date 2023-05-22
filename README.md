@@ -10,6 +10,7 @@ Proyecto de fin de grado realizado en la UPNa por Raúl Arribas Antón y supervi
 Repositorio de los códigos utilizados durante el proyecto.
 
 - Lectura_BQ25895
+
 Codigo para la lectura de los registros del BQ25895 y escritura de estos en el puerto seria (Arduino Uno o Atmega328P)
 
 - MPPT
