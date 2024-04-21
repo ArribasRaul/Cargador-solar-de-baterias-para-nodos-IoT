@@ -1,20 +1,3 @@
-//
-//   SDL_Arduino_INA3221 Library
-//   SDL_Arduino_INA3221.cpp Arduino code - runs in continuous mode
-//   Version 1.2
-//   SwitchDoc Labs   September 2019
-//
-//
-
-/**************************************************************************/
-/*! 
-    Initial code from INA219 code (Basically just a core structure left)
-    @author   K. Townsend (Adafruit Industries)
-	@license  BSD (see BSDlicense.txt)
-	
-	*/
-/**************************************************************************/
-
 #if ARDUINO >= 100
  #include "Arduino.h"
 #else
